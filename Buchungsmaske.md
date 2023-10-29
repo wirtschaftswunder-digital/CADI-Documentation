@@ -10,6 +10,9 @@ Dieser Weg der Einbindung **funktioniert nur bei WordPress Webseiten**. Da hierf
 
 #### Einbindung
 
-TODO
+1. Laden Sie das Buchungsmasken WordPress Plugin herunter: [Download Plugin](https://github.com/Leon-1207/CADI-Documentation/raw/main/cadi-booking-mask.zip)
+2. ...
 
 ### Möglichkeit 2: HTML Script
+
+...
