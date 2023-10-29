@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Einbindung
-parent: /Product-Finder
+parent: Product Finder
 nav_order: 2
 ---
 

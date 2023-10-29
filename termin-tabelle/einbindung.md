@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Einbindung
-parent: /Termin-Tabelle
+parent: Termin Tabelle
 nav_order: 2
 ---
 

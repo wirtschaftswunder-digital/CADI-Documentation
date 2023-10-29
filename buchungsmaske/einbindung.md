@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Einbindung
-parent: /Buchungsmaske
+parent: Buchungsmaske
 nav_order: 2
 ---
 
