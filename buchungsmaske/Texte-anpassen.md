@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Einbindung
+title: Texte und Übersetzungen
 parent: Buchungsmaske
 nav_order: 2
 ---
 
-# Anpassungen der Texte und Übersetzungen
+# Anpassung von Texten und Übersetzungen
 {: .no_toc }
 
 ## Inhaltsverzeichnis
@@ -15,7 +15,7 @@ nav_order: 2
 {:toc}
 
 {: .new }
-In der neuen CADI Buchungsmaske haben Sie die Möglichkeit alle Texte und Übersetzungen anzupassen
+> In der neuen CADI Buchungsmaske haben Sie die Möglichkeit alle Texte und Übersetzungen anzupassen
 
 ## Der Übersetzungseditor
 
