@@ -1,3 +1,11 @@
+---
+layout: default
+title: Buchungsmaske
+nav_order: 2
+has_children: true
+permalink: /Buchungsmaske
+---
+
 # Buchungsmaske
 
 Hier finden Sie eine Schritt-für-Schritt-Anleitung zur Einbindung und Konfiguration der Buchungsmaske.
