@@ -3,7 +3,7 @@ layout: default
 title: Product Finder
 nav_order: 4
 has_children: true
-permalink: /Product-Finder
+permalink: Product-Finder
 ---
 
 # Product Finder
