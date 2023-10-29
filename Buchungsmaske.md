@@ -39,7 +39,11 @@ Dieser Weg der Einbindung **funktioniert nur bei WordPress Webseiten**. Da hierf
 
 7. **<u>Wichtig</u>**: Konfigurieren Sie erforderliche Plugin Einstellungen
    - Damit die Buchungsmaske die Daten Ihrer Reisen laden kann, müssen Sie ein paar Einstellungen vornehmen. Auf diese Weise kann unser System Sie zuordnen und die Daten korrekt verarbeiten.
+   - Im folgenden Abschnitt [Plugin Einstellungen](#plugin-einstellungen) wird erklärt wo Sie die Einstellungen des Plugins finden und welche erforderlich für den Betrieb der Buchungsmaske sind.
 
+#### Plugin Einstellungen
+
+...
 
 ### Möglichkeit 2: HTML Script
 
