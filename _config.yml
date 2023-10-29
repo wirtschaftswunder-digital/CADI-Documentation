@@ -10,6 +10,8 @@ plugins:
 
 permalink: pretty
 
+favicon_ico: "/img/favicon.png"
+
 exclude:
  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
    - .sass-cache/
