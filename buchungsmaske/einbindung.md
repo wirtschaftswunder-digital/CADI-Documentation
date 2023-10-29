@@ -2,10 +2,10 @@
 layout: default
 title: Einbindung
 parent: Buchungsmaske
-nav_order: 2
+nav_order: 1
 ---
 
-# Einbindung: Buchungsmaske
+# Einbindung der Buchungsmaske
 {: .no_toc }
 
 ## Inhaltsverzeichnis

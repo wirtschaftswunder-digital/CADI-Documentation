@@ -7,6 +7,6 @@ permalink: Product-Finder
 ---
 
 # Product Finder
+{: .no_toc }
 
-Hier finden Sie eine Schritt-für-Schritt-Anleitung zur Einbindung und Konfiguration
- des Product Finders.
+Hier finden Sie eine Schritt-für-Schritt-Anleitung zur Einbindung und Konfiguration des Product Finders.
