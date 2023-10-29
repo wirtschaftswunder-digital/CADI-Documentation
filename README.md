@@ -8,7 +8,14 @@ Diese Dokumentation beschreibt, wie verschiedene Komponenten auf der Ihrer Websi
 [Product Finder](Product-Finder.md){: .btn .btn-blue }
 </span>
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
 {:toc}
+</details>
 
 # Test
 
