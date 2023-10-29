@@ -53,4 +53,62 @@ Dieser Weg der Einbindung **funktioniert nur bei WordPress Webseiten**. Da hierf
 
 ## Möglichkeit 2: HTML Script
 
-...
+Kopieren Sie den folgenden HTML Code an die Stelle Ihrer Webseite an der Sie die Buchungsmaske anzeigen möchten.
+
+{: .important-title }
+> Konfiguration erforderlich
+>
+> In dem hier bereitgestellten Code müssen noch Ihre anbieterspezifischen Werte verwendet werden. Unter [Konfiguration](/buchungsmaske/Konfiguration.md) erfahren Sie was Sie tun müssen.
+
+{: .note-title }
+> Hinweis
+>
+> Bei manchen Baukastensystemen für Webseiten wie zum Beispiel WordPress kann es vorkommen, dass der Code nicht als HTML Code sondern als Text interpretiert wird.
+
+```
+<!-- Booking mask START -->
+<div id="booking-mask-wrapper" data-custom-translations-src="/wp-content/uploads/bmCustomTranslations.json" data-api-base-url="https://dev.wirtschaftswunder.digital" data-pinned-countries="de,at,ch" data-split-form-boxes="true">
+  <!-- booking mask gets inserted here -->
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+  (function($) {
+    $(document).ready(function() {
+      "use strict";
+      const $bookingMaskWrapper = $("#booking-mask-wrapper");
+      // send the request and get the response
+      $bookingMaskWrapper.load(
+        "https://main.d1u2qdrqduf5v6.amplifyapp.com/index.html",
+        completeFunction
+      );
+      // complete function
+      function completeFunction(responseText, textStatus, request) {
+        if (textStatus == "error") {
+          $bookingMaskWrapper.text(
+            "An error occurred during your request: " +
+            request.status +
+            " " +
+            request.statusText
+          );
+        } else {
+          function checkStickyParents() {
+            let parent = document.querySelector("#side-bar-wrapper");
+            if (!parent) setTimeout(checkStickyParents, 500);
+            else {
+              while (parent) {
+                const hasOverflow = getComputedStyle(parent).overflow;
+                if (hasOverflow !== "visible") {
+                  parent.style.setProperty("overflow", "visible");
+                }
+                parent = parent.parentElement;
+              }
+            }
+          }
+          checkStickyParents();
+        }
+      }
+    });
+  })(jQuery);
+</script>
+<!-- Booking mask END -->
+```
