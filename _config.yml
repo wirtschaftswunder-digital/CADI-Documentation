@@ -10,3 +10,5 @@ plugins:
 
 # plugins:
 #  - jekyll-feed # generates an Atom feed of your posts
+
+search.heading_level: 6
