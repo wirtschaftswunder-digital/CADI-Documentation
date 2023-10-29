@@ -8,7 +8,7 @@ nav_order: 2
 # Einbindung: Termin Tabelle
 {: .no_toc }
 
-## Table of contents
+## Inhaltsverzeichnis
 {: .no_toc .text-delta }
 
 1. TOC
