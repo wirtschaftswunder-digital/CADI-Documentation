@@ -12,8 +12,8 @@ permalink: /
 Erfahren Sie wie Sie unsere neue **Buchungsmaske**, die **Termin Tabelle** oder auch den **Product Finder** auf Ihrer Webseite einbinden können.
 {: .fs-6 .fw-300 }
 
-<span class="fs-5 d-flex flex-justify-around mt-5">
-[Buchungsmaske](Buchungsmaske.md){: .btn .btn-blue }
-[Termin Tabelle](Termin-Tabelle.md){: .btn .btn-blue .mx-4 }
-[Product Finder](Product-Finder.md){: .btn .btn-blue }
+<span class="fs-4 d-flex flex-justify-around mt-5">
+[Buchungsmaske](/CADI-Documentation/Buchungsmaske){: .btn .btn-blue }
+[Termin Tabelle](/CADI-Documentation/Termin-Tabelle){: .btn .btn-blue .mx-4 }
+[Product Finder](/CADI-Documentation/Product-Finder){: .btn .btn-blue }
 </span>
