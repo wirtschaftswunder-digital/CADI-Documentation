@@ -4,7 +4,7 @@ description: Diese Dokumentation beschreibt, wie verschiedene Komponenten auf de
 #url: https://Leon-1207.github.io # the base hostname & protocol for your site
 
 # Build settings
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pmarsceill/just-the-docs
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
