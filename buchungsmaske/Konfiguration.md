@@ -14,7 +14,7 @@ nav_order: 2
 1. TOC
 {:toc}
 
-Auf dieser Seite erfahren Sie wie Sie Ihre Buchungsmaske konfigurieren können. Voraussetzung dafür ist, dass Sie die Buchungsmaske bereits auf Ihrer Webseite eingebunden haben. Falls Sie die Buchungsmaske noch nicht auf Ihrer Webseite eingebunden haben oder sich nicht mehr sicher sind welche Art der Einbindung Sie gewählt haben folgen Sie bitte unserer [Anleitung zum Einbinden der Buchungsmaske](/buchungsmaske/Einbindung).
+Auf dieser Seite erfahren Sie wie Sie Ihre Buchungsmaske konfigurieren können. Voraussetzung dafür ist, dass Sie die Buchungsmaske bereits auf Ihrer Webseite eingebunden haben. Falls Sie die Buchungsmaske noch nicht auf Ihrer Webseite eingebunden haben oder sich nicht mehr sicher sind welche Art der Einbindung Sie gewählt haben folgen Sie bitte unserer [Anleitung zum Einbinden der Buchungsmaske](/CADI-Documentation/buchungsmaske/Einbindung).
 
 ## Konfiguration bei Einbindung durch WordPress-Plugin
 
@@ -59,7 +59,7 @@ In dem Beispiel hat das `<div>` Element ein HTML Attribut mit dem Schlüssel `da
 
 ### HTML Attribute im Einbindungscode der Buchungsmaske
 
-Die HTML Attribute der Buchungsmaske müssen am Anfang des [Einbindungscodes](/buchungsmaske/Einbindung#einbindungscode) in das `<div>` Element gesetzt werden:
+Die HTML Attribute der Buchungsmaske müssen am Anfang des [Einbindungscodes](/CADI-Documentation/buchungsmaske/Einbindung#einbindungscode) in das `<div>` Element gesetzt werden:
 
 ```html
 <div id="booking-mask-wrapper" HIER_HTML_ATTRIBUTE_EINGEBEN>

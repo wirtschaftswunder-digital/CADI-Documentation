@@ -49,7 +49,7 @@ Dieser Weg der Einbindung **funktioniert nur bei WordPress Webseiten**. Da hierf
 
 7. **<u>Wichtig</u>**: Konfigurieren Sie erforderliche Plugin Einstellungen
    - Damit die Buchungsmaske die Daten Ihrer Reisen laden kann, müssen Sie ein paar Einstellungen vornehmen. Auf diese Weise kann unser System Sie zuordnen und die Daten korrekt verarbeiten.
-   - Im folgenden Abschnitt [Konfiguration](/buchungsmaske/Konfiguration) wird erklärt wo Sie die Einstellungen des Plugins finden und welche erforderlich für den Betrieb der Buchungsmaske sind.
+   - Im folgenden Abschnitt [Konfiguration](/CADI-Documentation/buchungsmaske/Konfiguration) wird erklärt wo Sie die Einstellungen des Plugins finden und welche erforderlich für den Betrieb der Buchungsmaske sind.
 
 ## Möglichkeit 2: HTML Script
 
@@ -58,7 +58,7 @@ Kopieren Sie den folgenden HTML Code an die Stelle Ihrer Webseite an der Sie die
 {: .important-title }
 > Konfiguration erforderlich
 >
-> In dem hier bereitgestellten Code müssen noch Ihre anbieterspezifischen Werte verwendet werden. Unter [Konfiguration](/buchungsmaske/Konfiguration) erfahren Sie was Sie tun müssen.
+> In dem hier bereitgestellten Code müssen noch Ihre anbieterspezifischen Werte verwendet werden. Unter [Konfiguration](/CADI-Documentation/buchungsmaske/Konfiguration) erfahren Sie was Sie tun müssen.
 
 {: .note-title }
 > Hinweis
