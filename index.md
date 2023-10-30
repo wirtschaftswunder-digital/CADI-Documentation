@@ -6,7 +6,7 @@ description: "Diese Dokumentation beschreibt, wie verschiedene Komponenten auf d
 permalink: /
 ---
 
-# Anleitung: Einbinden von CADI Komponenten
+# Anleitung: CADI Komponenten
 {: .fs-9 }
 
 Erfahren Sie wie Sie unsere neue **Buchungsmaske**, die **Termin Tabelle** oder auch den **Product Finder** auf Ihrer Webseite einbinden können.
