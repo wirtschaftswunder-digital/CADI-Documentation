@@ -65,9 +65,9 @@ Kopieren Sie den folgenden HTML Code an die Stelle Ihrer Webseite an der Sie die
 >
 > Bei manchen Baukastensystemen für Webseiten wie zum Beispiel WordPress kann es vorkommen, dass der Code nicht als HTML Code sondern als Text interpretiert wird.
 
-```
+```html
 <!-- Booking mask START -->
-<div id="booking-mask-wrapper" data-custom-translations-src="/wp-content/uploads/bmCustomTranslations.json" data-api-base-url="https://dev.wirtschaftswunder.digital" data-pinned-countries="de,at,ch" data-split-form-boxes="true">
+<div id="booking-mask-wrapper" data-api-base-url="https://dev.wirtschaftswunder.digital" data-split-form-boxes="true">
   <!-- booking mask gets inserted here -->
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
