@@ -89,8 +89,8 @@ Der Anfang des Einbindungscodes würde für diesen Anbieter wie folgt aussehen:
 
 ### API Base URL
 
-{: .highlight}
-> Dieses Attribut ist erforderlich
+{: .note-title}
+> Erforderlich
 
 Durch den Wert *API Base Url* weiß die Buchungsmaske wo sie ihre Daten abrufen soll.
 
