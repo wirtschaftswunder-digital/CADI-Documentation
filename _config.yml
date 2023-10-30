@@ -1,7 +1,7 @@
 # Site settings
 title: CADI Anleitung # the title of your site
 description: Diese Dokumentation beschreibt, wie verschiedene Komponenten auf der Ihrer Website eingebunden  werden können. Hier finden Sie Schritt-für-Schritt-Anleitungen und Beispiele für die Einbindung und Einrichtung von Komponenten (Buchungsmaske, Termintabelle und Product Finder).
-#url: https://Leon-1207.github.io # the base hostname & protocol for your site
+url: https://Leon-1207.github.io/CADI-Documentation/ # the base hostname & protocol for your site
 
 # Build settings
 remote_theme: pmarsceill/just-the-docs
