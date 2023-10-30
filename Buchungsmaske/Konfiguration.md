@@ -32,9 +32,10 @@ Falls Sie die Buchungsmaske mithilfe unseres WordPress-Plugins eingebunden haben
 
 7. **Wichtig:** denken Sie daran die Änderungen zu speichern, indem Sie auf den Button **Änderungen speichern** unten auf der Einstellungsseite klicken.
 
-<div style="text-align:center">
-    <img src="/CADI-Documentation/img/scrennshot1.png" alt="Screenshot vom Menü Einstellungen" width="50%" />
-</div>
+<!-- []: # BEGIN: ed8c6549bwf9
+<img src="/CADI-Documentation/img/scrennshot1.png" alt="Screenshot vom Menü Einstellungen" width="50%" style="max-width: 120px" />
+[]: # END: ed8c6549bwf9 -->
+
 
 
 ## Konfiguration bei Einbindung durch HTML Script
