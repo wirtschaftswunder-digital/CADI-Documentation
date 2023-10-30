@@ -87,4 +87,97 @@ Der Anfang des Einbindungscodes würde für diesen Anbieter wie folgt aussehen:
 
 ## Übersicht der Einstellungsmöglichkeiten
 
+### API Base URL
+
+{: .highlight}
+> Dieses Attribut ist erforderlich
+
+Durch den Wert *API Base Url* weiß die Buchungsmaske wo sie ihre Daten abrufen soll.
+
+In der Regel setzt sich die URL zusammen aus `https://` + *Subdomain* + `.camps.digital`. Für einen Anbieter mit der Subdomain `my` wäre der korrekte Wert also `https://my.camps.digital`. In Sonderfällen kann die URL abweichen. In diesem Fall werden wir Sie informieren.
+
+{: .note-title}
+> Einstellung durch HTML Code
+>
+> Verwenden Sie das HTML Attribut `data-api-base-url`.\
+> **Beispiel:** `data-api-base-url="https://my.camps.digital"`
+
+
+### Anbieter ID
+
 TODO
+
+
+### Subdomain
+
+TODO
+
+
+### URL zur Übersetzungsdatei (optional)
+
+{: .warning-title }
+> Nicht empfohlen
+>
+> Wir empfehlen Ihnen mit dem neuen Übersetzungseditor zur arbeiten: [mehr erfahren](/CADI-Documentation/Buchungsmaske/Texte-anspassen)
+
+TODO
+
+
+### Angepinnte Länder (optional)
+
+TODO
+
+
+### Darstellung der Buchungsmaske (optional)
+
+TODO
+
+
+### Version (optional)
+
+TODO
+
+
+### Footer Badge Image URL	(optional)
+
+TODO
+
+
+### Footer Badge Target URL (optional)
+
+TODO
+
+
+### Sidebar Badge (1) Image URL (optional)
+
+TODO
+
+
+### Sidebar Badge (1) Target URL (optional)
+
+TODO
+
+
+### Sidebar Badge (2) Image URL (optional)
+
+TODO
+
+
+### Sidebar Badge (2) Target URL (optional)
+
+TODO
+
+
+## Sie können nicht auf den Quellcode der Webseite zugreifen? *Kein Problem!*
+
+Wenn Sie die Buchungsmaske auf Ihrer Webseite mittels HTML Script eingebunden haben und nun Einstellungen ändern möchten, können wir das auch für Sie erledigen. Kontaktieren Sie uns und wir nehmen die Änderung in unsrem System vor.
+
+{: .note-title }
+> Wichtig
+>
+> **Subdomain** und **Anbieter ID** müssen in der Buchungsmaske bereits konfiguriert sein damit von uns vorgenommene Einstellungen geladen werden.
+
+
+## Einstellungen auf Destinationen-Ebene
+
+TODO Travel App
