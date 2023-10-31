@@ -16,6 +16,8 @@ nav_order: 2
 
 Auf dieser Seite erfahren Sie wie Sie Ihre Buchungsmaske konfigurieren können. Voraussetzung dafür ist, dass Sie die Buchungsmaske bereits auf Ihrer Webseite eingebunden haben. Falls Sie die Buchungsmaske noch nicht auf Ihrer Webseite eingebunden haben oder sich nicht mehr sicher sind welche Art der Einbindung Sie gewählt haben folgen Sie bitte unserer [Anleitung zum Einbinden der Buchungsmaske](/CADI-Documentation/buchungsmaske/Einbindung).
 
+---
+
 ## Konfiguration bei Einbindung durch WordPress-Plugin
 
 Falls Sie die Buchungsmaske mithilfe unseres WordPress-Plugins eingebunden haben können Sie die Konfigurationseinstellungen in den Einstellungen des Plugins vornehmen.
@@ -36,7 +38,7 @@ Falls Sie die Buchungsmaske mithilfe unseres WordPress-Plugins eingebunden haben
 <img src="/CADI-Documentation/img/scrennshot1.png" alt="Screenshot vom Menü Einstellungen" width="50%" style="max-width: 120px" />
 []: # END: ed8c6549bwf9 -->
 
-
+---
 
 ## Konfiguration bei Einbindung durch HTML Script
 
@@ -85,6 +87,8 @@ Der Anfang des Einbindungscodes würde für diesen Anbieter wie folgt aussehen:
 </div>
 ...
 ```
+
+---
 
 ## Übersicht der Einstellungsmöglichkeiten
 
@@ -251,6 +255,7 @@ Wenn Sie die Buchungsmaske auf Ihrer Webseite mittels HTML Script eingebunden ha
 >
 > **Subdomain** und **Anbieter ID** müssen in der Buchungsmaske bereits konfiguriert sein damit von uns vorgenommene Einstellungen geladen werden.
 
+---
 
 ## Einstellungen auf Destinationen-Ebene
 
