@@ -210,7 +210,7 @@ In der Sidebar der Buchungsmaske können Sie Bilder einfügen. Geben Sie hierfü
 > Verwenden Sie das HTML Attribut `data-sidebar-badge-1-img`\
 > **Beispiel:** `data-sidebar-badge-1-img="https://example.com/sidebar-image1.jpg"`
 
-![Screenshot von Sidebar mit Bildern bzw. Logos](/CADI-Documentation/img/scrennshot2.png)
+![Screenshot von Sidebar mit Bildern bzw. Logos](/CADI-Documentation/img/screenshot2.png)
 
 
 ### Sidebar Badge (1) Target URL (optional)
