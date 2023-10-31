@@ -99,7 +99,7 @@ In der Regel setzt sich die URL zusammen aus `https://` + *Subdomain* + `.camps.
 {: .note-title}
 > Konfiguration im HTML Code
 >
-> Verwenden Sie das HTML Attribut `data-api-base-url`.\
+> Verwenden Sie das HTML Attribut `data-api-base-url`\
 > **Beispiel:** `data-api-base-url="https://my.camps.digital"`
 
 
@@ -110,7 +110,7 @@ Mittels Anbieter ID und Subdomain können wir unsere Anbieter identifizieren und
 {: .note-title}
 > Konfiguration im HTML Code
 >
-> Verwenden Sie das HTML Attribut `data-anbieter-id`.\
+> Verwenden Sie das HTML Attribut `data-anbieter-id`\
 > **Beispiel:** `data-anbieter-id="12"`
 
 
@@ -121,7 +121,7 @@ Die Subdomain dient neben der [Anbieter ID](#anbieter-id) dazu den Anbieter zu i
 {: .note-title}
 > Konfiguration im HTML Code
 >
-> Verwenden Sie das HTML Attribut `data-subdomain`.\
+> Verwenden Sie das HTML Attribut `data-subdomain`\
 > **Beispiel:** `data-subdomain="my"`
 
 
@@ -144,48 +144,102 @@ Sie können alle Texte und ihre Übersetzungen in der Buchungsmaske ändern und 
 
 Sie haben die Möglichkeit in unserer Buchungsmaske häufig verwendete Länder als Favoriten zu markieren. Bei der Auswahl des Landes oder der Vorwahl werden dieser Favoriten im Drop Down Menü oben angezeigt.
 
-![Screenshot von angepinnten Ländern](/CADI-Documentation/img/scrennshot1.png)
+![Screenshot von angepinnten Ländern](/CADI-Documentation/img/pinnedCountries.png)
 
-TODO
+Die Länder werden dabei als Alpha-2 Ländercodes (internationaler ISO 3166 Standard) angegeben. Deutschland hat beispielsweise den Code **DE** und Österreich den Code **AT**. Es können mehrere Länder als Favorit markiert werden, indem die Ländercodes durch ein Komma getrennt aufgelistet werden (zum Beispiel: `de,at,ch`). Die Reihenfolge der List bestimmt auch die Reihenfolge im Dropdown.
+
+{: .note-title}
+> Konfiguration im HTML Code
+>
+> Verwenden Sie das HTML Attribut `data-pinned-countries`\
+> **Beispiel:** `data-pinned-countries="de,at,ch"`
+
 
 ### Darstellung der Buchungsmaske (optional)
 
-TODO
+Diese Einstellung bestimmt ob es eine kleine Lücke zwischen dem Hauptbereich und der Sidebar der Buchungsmaske geben soll.
+
+{: .note-title}
+> Konfiguration im HTML Code
+>
+> Verwenden Sie das HTML Attribut `data-split-form-boxes`. Mögliche Werte sind `true` und `false`. Der Standardwert ist `true`.\
+> **Beispiel:** `data-split-form-boxes="false"`
 
 
 ### Version (optional)
 
-TODO
+{: .warning-title }
+Achtung!
+
+Wir empfehlen Ihnen bei dieser Einstellung den **Production Mode**. Der Development Mode kann teilweise noch nicht vollständig getestete oder experimentelle Features enthalten.
 
 
 ### Footer Badge Image URL	(optional)
 
-TODO
+Wenn Sie unten im Footer der Buchungsmaske ein Bild einsetzen möchten, können Sie hier die URL des Bildes einfügen.
+
+{: .note-title}
+> Konfiguration im HTML Code
+>
+> Verwenden Sie das HTML Attribut `data-footer-badge-img`\
+> **Beispiel:** `data-footer-badge-img="https://example.com/image.jpg"`
 
 
 ### Footer Badge Target URL (optional)
 
-TODO
+Wenn Sie unten im Footer der Buchungsmaske ein Bild eingesetzt haben und möchten, dass der Benutzer auch auf dieses Bild klicken kann, dann können Sie hier die URL einsetzen auf die Sie verlinken möchten.
+
+{: .note-title}
+> Konfiguration im HTML Code
+>
+> Verwenden Sie das HTML Attribut `data-footer-badge-link`\
+> **Beispiel:** `data-footer-badge-ling="https://example.com"`
 
 
 ### Sidebar Badge (1) Image URL (optional)
 
-TODO
+In der Sidebar der Buchungsmaske können Sie Bilder einfügen. Geben Sie hierfür hier den URL des Bildes an.
+
+{: .note-title}
+> Konfiguration im HTML Code
+>
+> Verwenden Sie das HTML Attribut `data-sidebar-badge-1-img`\
+> **Beispiel:** `data-sidebar-badge-1-img="https://example.com/sidebar-image1.jpg"`
+
+![Screenshot von Sidebar mit Bildern bzw. Logos](/CADI-Documentation/img/scrennshot2.png)
 
 
 ### Sidebar Badge (1) Target URL (optional)
 
-TODO
+Klick der Benutzer auf das [Sidebar Badge (1)](#sidebar-badge-1-image-url-optional), öffnet sich ein neuer Tab, der die hier definierte URL aufruft.
+
+{: .note-title}
+> Konfiguration im HTML Code
+>
+> Verwenden Sie das HTML Attribut `data-sidebar-badge-2-link`\
+> **Beispiel:** `data-sidebar-badge-1-link="https://example.com"`
 
 
 ### Sidebar Badge (2) Image URL (optional)
 
-TODO
+Falls Sie unter [Sidebar Badge (1)](#sidebar-badge-1-image-url-optional) ein weiteres Bild anzeigen möchten, können Sie hier wie bei [Sidebar Badge (1)](#sidebar-badge-1-image-url-optional) hier die Adresse des Bildes angeben.
+
+{: .note-title}
+> Konfiguration im HTML Code
+>
+> Verwenden Sie das HTML Attribut `data-sidebar-badge-2-img`\
+> **Beispiel:** `data-sidebar-badge-2-img="https://example.com/sidebar-image2.jpg"`
 
 
 ### Sidebar Badge (2) Target URL (optional)
 
-TODO
+Klick der Benutzer auf das [Sidebar Badge (2)](#sidebar-badge-2-image-url-optional), öffnet sich ein neuer Tab, der die hier definierte URL aufruft.
+
+{: .note-title}
+> Konfiguration im HTML Code
+>
+> Verwenden Sie das HTML Attribut `data-sidebar-badge-2-link`\
+> **Beispiel:** `data-sidebar-badge-2-link="https://example.com"`
 
 
 ## Sie können nicht auf den Quellcode der Webseite zugreifen? *Kein Problem!*
