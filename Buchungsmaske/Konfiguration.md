@@ -254,4 +254,4 @@ Wenn Sie die Buchungsmaske auf Ihrer Webseite mittels HTML Script eingebunden ha
 
 ## Einstellungen auf Destinationen-Ebene
 
-TODO Travel App
+Einige Einstellungen der Buchungsmaske gelten lediglich auf Destinations-Ebene. Nutzen Sie unsere **Travel App**, um diese zu konfigurieren.
