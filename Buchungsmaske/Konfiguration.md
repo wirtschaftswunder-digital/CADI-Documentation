@@ -88,17 +88,16 @@ Der Anfang des Einbindungscodes würde für diesen Anbieter wie folgt aussehen:
 
 ## Übersicht der Einstellungsmöglichkeiten
 
-### API Base URL
+Die Konfiguration von **API Base URL**, **Anbieter ID** und **Subdomain** sind **erforderlich** für den Betrieb der Buchungsmaske. Alle weiteren Einstellungen sind optional und können auch leer- bzw. weggelassen werden.
 
-{: .note-title}
-> Erforderlich
+### API Base URL
 
 Durch den Wert *API Base Url* weiß die Buchungsmaske wo sie ihre Daten abrufen soll.
 
 In der Regel setzt sich die URL zusammen aus `https://` + *Subdomain* + `.camps.digital`. Für einen Anbieter mit der Subdomain `my` wäre der korrekte Wert also `https://my.camps.digital`. In Sonderfällen kann die URL abweichen. In diesem Fall werden wir Sie informieren.
 
 {: .note-title}
-> Einstellung durch HTML Code
+> Konfiguration im HTML Code
 >
 > Verwenden Sie das HTML Attribut `data-api-base-url`.\
 > **Beispiel:** `data-api-base-url="https://my.camps.digital"`
@@ -106,12 +105,24 @@ In der Regel setzt sich die URL zusammen aus `https://` + *Subdomain* + `.camps.
 
 ### Anbieter ID
 
-TODO
+Mittels Anbieter ID und Subdomain können wir unsere Anbieter identifizieren und die Daten korrekt verarbeiten. Bei der Anbieter ID handelt es sich um eine Zahl.
+
+{: .note-title}
+> Konfiguration im HTML Code
+>
+> Verwenden Sie das HTML Attribut `data-anbieter-id`.\
+> **Beispiel:** `data-anbieter-id="12"`
 
 
 ### Subdomain
 
-TODO
+Die Subdomain dient neben der [Anbieter ID](#anbieter-id) dazu den Anbieter zu identifizieren.
+
+{: .note-title}
+> Konfiguration im HTML Code
+>
+> Verwenden Sie das HTML Attribut `data-subdomain`.\
+> **Beispiel:** `data-subdomain="my"`
 
 
 ### URL zur Übersetzungsdatei (optional)
@@ -121,13 +132,21 @@ TODO
 >
 > Wir empfehlen Ihnen mit dem neuen Übersetzungseditor zur arbeiten: [mehr erfahren](/CADI-Documentation/Buchungsmaske/Texte-anspassen)
 
-TODO
+Sie können alle Texte und ihre Übersetzungen in der Buchungsmaske ändern und individuell auf Ihre Anforderungen anpassen. Wir empfehlen Ihnen dafür allerdings unsere vorgefertigte Lösung durch den [Übersetzungseditor](/CADI-Documentation/Buchungsmaske/Texte-anspassen). Falls Sie diesen nicht verwenden wollen können Sie diese Einstellung nutzen und den relativen URL zu Ihrer eigenen Übersetzungsdatei angeben.
 
 
 ### Angepinnte Länder (optional)
 
-TODO
+{: .new-title }
+> Empfohlen
+>
+> Wir empfehlen Ihnen diese Einstellung zu setzen und hier die Länder anzugeben aus denen die meisten Ihrer Kunden kommen. Dadurch gestalten Sie die Buchung Ihrer Kunden angenehmer.
 
+Sie haben die Möglichkeit in unserer Buchungsmaske häufig verwendete Länder als Favoriten zu markieren. Bei der Auswahl des Landes oder der Vorwahl werden dieser Favoriten im Drop Down Menü oben angezeigt.
+
+![Screenshot von angepinnten Ländern](/CADI-Documentation/img/scrennshot1.png)
+
+TODO
 
 ### Darstellung der Buchungsmaske (optional)
 
