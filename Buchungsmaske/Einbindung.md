@@ -14,7 +14,7 @@ nav_order: 1
 1. TOC
 {:toc}
 
-
+---
 
 ## Möglichkeit 1: WordPress-Plugin
 
@@ -50,6 +50,8 @@ Dieser Weg der Einbindung **funktioniert nur bei WordPress Webseiten**. Da hierf
 7. **<u>Wichtig</u>**: Konfigurieren Sie erforderliche Plugin Einstellungen
    - Damit die Buchungsmaske die Daten Ihrer Reisen laden kann, müssen Sie ein paar Einstellungen vornehmen. Auf diese Weise kann unser System Sie zuordnen und die Daten korrekt verarbeiten.
    - Im folgenden Abschnitt [Konfiguration](/CADI-Documentation/buchungsmaske/Konfiguration) wird erklärt wo Sie die Einstellungen des Plugins finden und welche erforderlich für den Betrieb der Buchungsmaske sind.
+
+---
 
 ## Möglichkeit 2: HTML Script
 
