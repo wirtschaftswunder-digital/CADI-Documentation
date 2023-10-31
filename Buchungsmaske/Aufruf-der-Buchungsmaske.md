@@ -49,3 +49,5 @@ Dieser Parameter gibt an welcher Termin in der Buchungsmaske dargestellt werden 
 ### `vendor`
 
 Diese Parameter gibt an auf welchen Vendor die Buchungen zurückzuführen sind. Geben Sie hier die Kennung des jeweiligen Vendors an.
+
+Die Sprache wird als Alpha-2 Code angegeben. Mögliche Werte können hier zum Beispiel `de` oder `en` sein.
