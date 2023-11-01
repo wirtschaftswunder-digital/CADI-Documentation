@@ -32,4 +32,11 @@ nav_order: 4
 
 6. Klicken Sie auf **Text Editor öffnen**, um zu Ihrem Texteditor zu gelangen.
 
-![Übersetzungseditor](/CADI-Documentation/img/screenshot3.png)"Screenshot vom Übersetzungseditor")
+**Screenshot vom Übersetzungseditor**
+![Übersetzungseditor](/CADI-Documentation/img/screenshot3.png)
+
+{: .note-title}
+> Hinweis
+>
+> TODO: **EMPTY**
+TODO zu übersetzungen anpassen kopieren

@@ -23,4 +23,5 @@ nav_order: 5
 
 TODO
 
-![Übersetzungseditor](/CADI-Documentation/img/editorScreenshot.png)"Testimonials im Übersetzungseditor")
+**Testimonials im Übersetzungseditor**
+![Übersetzungseditor](/CADI-Documentation/img/editorScreenshot.png)
