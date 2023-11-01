@@ -8,11 +8,13 @@ nav_order: 4
 # Anpassung von Texten und Übersetzungen
 {: .no_toc }
 
+<!--
 ## Inhaltsverzeichnis
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
+-->
 
 {: .new-title }
 > Neu

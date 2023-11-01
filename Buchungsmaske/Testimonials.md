@@ -23,7 +23,11 @@ nav_order: 5
 
 Sie können ausgewählte Kundenerfahrungen in der Buchungsmaske anzeigen. Diese Texte werden dem Kunden kurz vor dem Abschluss der Buchung gezeigt.
 
-TODO
+**Testimonials in der Buchungsmaske**
+![Screenshot von Testimonials in der Buchungsmaske](/CADI-Documentation/img/screenshot4.png)
+
+Sie können die Testimonials wie jeden anderen Text in der Buchungsmaske auch bearbeiten.\
+[Mehr zum Thema Texte anpassen](/CADI-Documentation/Buchungsmaske/Texte-anpassen)
 
 **Testimonials im Übersetzungseditor**
 ![Übersetzungseditor](/CADI-Documentation/img/editorScreenshot.png)
