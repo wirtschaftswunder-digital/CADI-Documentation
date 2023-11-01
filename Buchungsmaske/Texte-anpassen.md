@@ -38,5 +38,4 @@ nav_order: 4
 {: .note-title}
 > Hinweis
 >
-> TODO: **EMPTY**
-TODO zu übersetzungen anpassen kopieren
+> Wenn für ein Texteintrag nur das Wort `EMPTY` eingetragen wird, wird der Text in der Buchungsmaske nicht angezeigt. Wichtig ist dabei, dass `EMPTY` in **Großbuchstaben** geschrieben ist.
