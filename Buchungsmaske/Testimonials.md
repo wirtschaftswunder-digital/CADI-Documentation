@@ -21,5 +21,6 @@ nav_order: 5
 >
 > In der neuen CADI Buchungsmaske haben Sie die Möglichkeit Erfahrungsberichte von Ihren Kunden anzuzeigen.
 
-
 TODO
+
+![Übersetzungseditor](/CADI-Documentation/img/editorScreenshot.png)"Testimonials im Übersetzungseditor")
