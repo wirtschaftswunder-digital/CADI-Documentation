@@ -35,9 +35,9 @@ Das Design der Buchungsmaske kann angepasst werden, indem das CSS überschrieben
 ### `--gray-1`
 {: .no_toc }
 
-> Default: `#f3f5f7`
+> Default: `#f3f5f7` <span style="background-color: #f3f5f7; width: 1em; height: 1em; display: inline-block; vertical-align: middle; border-radius: 50%; margin-left: 4px;"></span>
 
-- Hellste der drei Graustufen in der Buchungsmaske
+- Hellste der drei Grautöne in der Buchungsmaske
 
 - Wird für den Hintergrund der Sidebar verwendet
 
@@ -48,25 +48,31 @@ Das Design der Buchungsmaske kann angepasst werden, indem das CSS überschrieben
 
 > Default: `#9aa9c1`
 
-TODO
+- Mittlerer Grauton in der Buchungsmaske
+
+- Wird beispielsweise für sekundäre Texte genutzt
 
 ### `--gray-3`
 
 > Default: `#293241`
 
-TODO
+- Dunkelster Grauton in der Buchungsmaske
+
+- Wird standardmäßig für die [Haupttextfarbe](#text-main-color) verwendet
 
 ### `--text-main-color`
 
 > Default: `var(--gray-3)`
 
-TODO
+- Farbe der Texte in der Buchungsmaske
 
 ### `--accent-color`
 
 > Default: `#3454d1`
 
-TODO
+- Akzentfarbe
+
+
 
 ### `--accent-color-hover`
 
