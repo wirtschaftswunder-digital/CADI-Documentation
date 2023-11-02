@@ -72,9 +72,9 @@ Verwenden Sie das HTML-Attribut `data-disabled-filters="..."` auf dem `<div id="
 Filternamen: holiday, ageGroup, region, eventType, tag\
 **Beispiel:** `data-disabled-filters="region, eventType"`
 
-### Ziele deaktivieren
+### Destinationen deaktivieren
 
-Verwenden Sie das HTML-Attribut `data-disabled-destinations="..."` auf dem `<div id="product-finder-wrapper" ...>`-Tag, um Ziele zu deaktivieren. Fügen Sie alle Ziel-IDs ein, die Sie aus dem Product Finder ausschließen möchten, durch Kommas getrennt.\
+Verwenden Sie das HTML-Attribut `data-disabled-destinations="..."` auf dem `<div id="product-finder-wrapper" ...>`-Tag, um Destinationen zu deaktivieren. Fügen Sie alle Destination-IDs ein, die Sie aus dem Product Finder ausschließen möchten, durch Kommas getrennt.\
 **Beispiel:** `data-disabled-destinations="49, 242"`
 
 ### Individuelle Farbe des Designs
