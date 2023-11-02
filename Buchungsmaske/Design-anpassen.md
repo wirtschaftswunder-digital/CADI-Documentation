@@ -187,7 +187,7 @@ Das Design der Buchungsmaske kann angepasst werden, indem das CSS überschrieben
 In folgendem Beispiel wird demonstriert, wie die Akzentfarbe angepasst werden kann:
 
 Folgender CSS Code wurde zur Website hinzugefügt
-```CSS
+```css
 #booking-mask-wrapper #booking-mask {
     --accent-color: #5dc831 !important;
     --accent-color-hover: #4da22a !important;
@@ -196,7 +196,7 @@ Folgender CSS Code wurde zur Website hinzugefügt
 
 {: .note-title}
 > Falls Sie CSS zum Seitenquelltext hinzufügen möchten, verwenden Sie ein `<style>` Element:
-> ```HTML
+> ```html
 ><style>
 >#booking-mask-wrapper #booking-mask {
 >   --accent-color: #5dc831 !important;
