@@ -184,4 +184,27 @@ Das Design der Buchungsmaske kann angepasst werden, indem das CSS überschrieben
 
 ## Beispiel: Anpassung des Farbschemas
 
-TODO
+In folgendem Beispiel wird demonstriert, wie die Akzentfarbe angepasst werden kann:
+
+Folgender CSS Code wurde zur Website hinzugefügt
+```CSS
+#booking-mask-wrapper #booking-mask {
+    --accent-color: #5dc831 !important;
+    --accent-color-hover: #4da22a !important;
+}
+```
+
+{: .note-title}
+> Falls Sie CSS zum Seitenquelltext hinzufügen möchten, verwenden Sie ein `<style>` Element:
+> ```HTML
+><style>
+>#booking-mask-wrapper #booking-mask {
+>   --accent-color: #5dc831 !important;
+>   --accent-color-hover: #4da22a !important;
+>}
+></style>
+>```
+
+Bei machen Farben sollten Sie auch die Werte für `--gray-1`, `--gray-2` und `--gray-3` anpassen, da diese standardmäßig einen leichten blaustich haben.
+
+![Screenshot](/CADI-Documentation/img/screenshot6.png)
