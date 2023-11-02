@@ -58,7 +58,7 @@ Kopieren Sie den folgenden Code-Abschnitt auf Ihre Webseite. Der Product Finder 
 
 ---
 
-## Einrichtung
+### Einrichtung
 1. Ersetzen Sie INSERT_ANBIETER_ID_HERE durch Ihre Anbieter-ID.
 2. Ersetzen Sie INSERT_HOST_ID_HERE durch Ihre Host-ID.
 
