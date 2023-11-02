@@ -41,7 +41,7 @@ Das Design der Buchungsmaske kann angepasst werden, indem das CSS überschrieben
 
 - Wird standardmäßig für den Hintergrund der Sidebar verwendet
 
-![Sidebar](/CADI-Documentation/img/screenshotSidebar.png)
+<!-- ![Sidebar](/CADI-Documentation/img/screenshotSidebar.png) -->
 
 ### `--gray-2`
 {: .no_toc }
