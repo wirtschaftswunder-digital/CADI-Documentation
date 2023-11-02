@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Script Code Variante
-parent: Product-Finder
+parent: Product Finder
 nav_order: 4
 ---
 
