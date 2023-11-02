@@ -33,12 +33,18 @@ Das Design der Buchungsmaske kann angepasst werden, indem das CSS überschrieben
 ## Übersicht der verwendeten CSS Variablen
 
 ### `--gray-1`
+{: .no_toc }
 
 > Default: `#f3f5f7`
 
-TODO
+- Hellste der drei Graustufen in der Buchungsmaske
+
+- Wird für den Hintergrund der Sidebar verwendet
+
+![Sidebar](/CADI-Documentation/img/screenshotSidebar.png)
 
 ### `--gray-2`
+{: .no_toc }
 
 > Default: `#9aa9c1`
 
