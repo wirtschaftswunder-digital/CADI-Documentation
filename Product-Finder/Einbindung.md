@@ -3,8 +3,6 @@ layout: default
 title: Einbindung
 parent: Product Finder
 nav_order: 2
-has_children: true
-has_toc: true
 ---
 
 # Einbindung Product Finder
