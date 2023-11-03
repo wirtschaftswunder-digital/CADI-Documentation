@@ -18,7 +18,7 @@ nav_order: 1
 
 ## Möglichkeit 1: WordPress-Plugin
 
-Dieser Weg der Einbindung **funktioniert nur bei WordPress Webseiten**. Da hierfür die Konfiguration er Buchungsmaske kein Eingriff in den Quellcode der Webseite notwendig ist, empfehlen wir Ihnen diese Möglichkeit, falls Sie unsere Buchungsmaske auf einer WordPress Webseite einbinden möchten.
+Dieser Weg der Einbindung **funktioniert nur bei WordPress Webseiten**. Da hier für die Konfiguration der Buchungsmaske kein Eingriff in den Quellcode der Webseite notwendig ist, empfehlen wir Ihnen diese Möglichkeit, falls Sie unsere Buchungsmaske auf einer WordPress Webseite einbinden möchten.
 
 1. **Laden Sie das Buchungsmasken WordPress Plugin herunter**
    
@@ -26,13 +26,10 @@ Dieser Weg der Einbindung **funktioniert nur bei WordPress Webseiten**. Da hierf
 
 2. **Melden Sie sich in Ihrem WordPress-Dashboard an**
 
-3. **Navigieren Sie zum Plugin-Bereich**:
+3. **Installation des Plugins**:
 
    - Klicken Sie im linken Menü auf "Plugins". 
    - Anschließend klicken Sie auf "Installieren".
-
-4. **Laden Sie das Plugin hoch**:
-
    - Klicken Sie oben auf der Seite auf den Button "Plugin hochladen".
    - Klicken Sie auf "Durchsuchen" und wählen Sie die zuvor heruntergeladene .zip-Datei des Plugins aus.
    - Klicken Sie auf "Jetzt installieren".
@@ -44,7 +41,7 @@ Dieser Weg der Einbindung **funktioniert nur bei WordPress Webseiten**. Da hierf
 6. **Setzen Sie den *Shortcode* ein**
    
    - Durch das Plugin erkennt WordPress den *Shortcode* `[cadi_booking_mask]` und ersetzt ihn beim Laden der Seite durch die Buchungsmaske.
-   - Hier können finden Sie eine detaillierte Anleitung von WordPress zum Thema Shortcodes und wie sie verwendet werden können: [Anleitung auf WordPress.com](https://wordpress.com/de/support/wordpress-editor/bloecke/shortcode-block/)
+   - Hier können finden Sie eine detaillierte Anleitung von WordPress zum Thema Shortcodes und wie sie verwendet werden können: [Anleitung auf WordPress.com](https://wordpress.com/de/support/wordpress-editor/bloecke/shortcode-block/){:target="_blank"}
   
 
 7. **<u>Wichtig</u>**: Konfigurieren Sie erforderliche Plugin Einstellungen
