@@ -40,8 +40,13 @@ Dieser Weg der Einbindung **funktioniert nur bei WordPress Webseiten**. Da hier 
 
 6. **Setzen Sie den *Shortcode* ein**
    
+   - Platzieren Sie den Shortcode `[cadi_booking_mask]` an der Stelle, wo später die Buchungsmaske auf Ihrer Webseite erscheinen soll. In der Regel ist dies ein Container auf einer Unterseite wie ".../buchung"  o.ä..
    - Durch das Plugin erkennt WordPress den *Shortcode* `[cadi_booking_mask]` und ersetzt ihn beim Laden der Seite durch die Buchungsmaske.
-   - Hier können finden Sie eine detaillierte Anleitung von WordPress zum Thema Shortcodes und wie sie verwendet werden können: [Anleitung auf WordPress.com](https://wordpress.com/de/support/wordpress-editor/bloecke/shortcode-block/){:target="_blank"}
+   
+   {: .note-title}
+   > Info
+   >
+   > Auf der offiziellen Webseite von WordPress finden sein eine detaillierte Anleitung zum Thema Shortcodes und wie sie verwendet werden: [Anleitung auf WordPress.com](https://wordpress.com/de/support/wordpress-editor/bloecke/shortcode-block/){:target="_blank"}
   
 
 7. **<u>Wichtig</u>**: Konfigurieren Sie erforderliche Plugin Einstellungen
