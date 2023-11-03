@@ -24,7 +24,7 @@ Falls Sie die Buchungsmaske mithilfe unseres WordPress-Plugins eingebunden haben
 
 1. Loggen Sie sich auf Ihrer WordPress Seite ein.
 
-2. Klappen Sie das Navigationsmenü aus, sodass nicht nur die Icons zu sehen sind sondern auch die Beschriftungen.
+2. Klappen Sie das Navigationsmenü aus, sodass nicht nur die Icons zu sehen sind, sondern auch die Beschriftungen.
 
 3. Klicken sie auf **Einstellungen**. Nun sollten unter dem Menüpunkt **Einstellungen** untergeordnete Menüpunkte angezeigt werden.
 

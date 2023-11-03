@@ -67,7 +67,7 @@ Kopieren Sie den folgenden HTML Code an die Stelle Ihrer Webseite an der Sie die
 {: .note-title }
 > Hinweis
 >
-> Bei manchen Baukastensystemen für Webseiten wie zum Beispiel WordPress kann es vorkommen, dass der Code nicht als HTML Code sondern als Text interpretiert wird.
+> Bei manchen Baukastensystemen für Webseiten wie zum Beispiel WordPress kann es vorkommen, dass der Code nicht als HTML Code, sondern als Text interpretiert wird.
 
 ### Einbindungscode
 
