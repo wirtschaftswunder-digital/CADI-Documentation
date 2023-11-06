@@ -16,7 +16,7 @@ nav_order: 1
 
 ---
 
-## Möglichkeit 1: WordPress-Plugin
+## Einbindungsmöglichkeit 1: WordPress-Plugin
 
 Dieser Weg der Einbindung **funktioniert nur bei WordPress Webseiten**. Da hier für die Konfiguration der Buchungsmaske kein Eingriff in den Quellcode der Webseite notwendig ist, empfehlen wir Ihnen diese Möglichkeit, falls Sie unsere Buchungsmaske auf einer WordPress Webseite einbinden möchten.
 
@@ -57,11 +57,11 @@ Dieser Weg der Einbindung **funktioniert nur bei WordPress Webseiten**. Da hier 
 
 7. **<u>Wichtig</u>**: Konfigurieren Sie erforderliche Plugin Einstellungen
    - Damit die Buchungsmaske die Daten Ihrer Reisen laden kann, müssen Sie ein paar Einstellungen vornehmen. Auf diese Weise kann unser System sie zuordnen und die Daten korrekt verarbeiten.
-   - Im folgenden Abschnitt [Konfiguration](/CADI-Documentation/Buchungsmaske/Konfiguration) wird erklärt wo Sie die Einstellungen des Plugins finden und welche erforderlich für den Betrieb der Buchungsmaske sind.
+   - Unter [Konfiguration](/CADI-Documentation/Buchungsmaske/Konfiguration) wird erklärt wo Sie die Einstellungen des Plugins finden und welche erforderlich für den Betrieb der Buchungsmaske sind.
 
 ---
 
-## Möglichkeit 2: HTML Script
+## Einbindungsmöglichkeit 2: HTML Script
 
 Kopieren Sie den folgenden HTML Code an die Stelle Ihrer Webseite an der Sie die Buchungsmaske anzeigen möchten.
 
