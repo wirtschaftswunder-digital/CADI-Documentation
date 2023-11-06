@@ -101,7 +101,7 @@ In der Regel setzt sich die URL zusammen aus `https://` + *Subdomain* + `.camps.
 
 ### Anbieter ID
 
-Mittels Anbieter ID und Subdomain können wir unsere Anbieter identifizieren und die Daten korrekt verarbeiten. Bei der Anbieter ID handelt es sich um eine Zahl.
+Mittels Anbieter ID und Subdomain können wir unsere Anbieter identifizieren und die Daten korrekt verarbeiten. Bei der Anbieter ID handelt es sich um eine Zahl. Wissen Sie Ihre Anbieter ID nicht, wenden Sie sich gerne an uns.
 
 {: .note-title}
 > Konfiguration im HTML Code
@@ -128,7 +128,7 @@ Die Subdomain dient neben der [Anbieter ID](#anbieter-id) dazu den Anbieter zu i
 >
 > Wir empfehlen Ihnen mit dem neuen Übersetzungseditor zur arbeiten: [mehr erfahren](/CADI-Documentation/Buchungsmaske/Texte-anspassen)
 
-Sie können alle Texte und ihre Übersetzungen in der Buchungsmaske ändern und individuell auf Ihre Anforderungen anpassen. Wir empfehlen Ihnen dafür allerdings unsere vorgefertigte Lösung durch den [Übersetzungseditor](/CADI-Documentation/Buchungsmaske/Texte-anspassen). Falls Sie diesen nicht verwenden wollen können Sie diese Einstellung nutzen und den relativen URL zu Ihrer eigenen Übersetzungsdatei angeben.
+Sie können alle Texte und deren Übersetzungen in der Buchungsmaske ändern und individuell auf Ihre Anforderungen anpassen. Wir empfehlen Ihnen dafür allerdings unsere vorgefertigte Lösung durch den [Übersetzungseditor](/CADI-Documentation/Buchungsmaske/Texte-anspassen). Falls Sie diesen nicht verwenden wollen können Sie diese Einstellung nutzen und den relativen URL zu Ihrer eigenen Übersetzungsdatei angeben.
 
 
 ### Angepinnte Länder (optional)
@@ -183,7 +183,7 @@ Wenn Sie unten im Footer der Buchungsmaske ein Bild einsetzen möchten, können 
 
 ### Footer Badge Target URL (optional)
 
-Wenn Sie unten im Footer der Buchungsmaske ein Bild eingesetzt haben und möchten, dass der Benutzer auch auf dieses Bild klicken kann, dann können Sie hier die URL einsetzen auf die Sie verlinken möchten.
+Wenn Sie das Bild im Footer verlinken möchten können Sie hier den URL einsetzten.
 
 {: .note-title}
 > Konfiguration im HTML Code
