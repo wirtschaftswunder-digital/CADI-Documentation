@@ -20,7 +20,7 @@ Auf dieser Seite erfahren Sie wie Sie Ihre Buchungsmaske konfigurieren können. 
 
 ## Konfiguration bei Einbindung durch WordPress-Plugin
 
-Falls Sie die Buchungsmaske mithilfe unseres WordPress-Plugins eingebunden haben können Sie die Konfigurationseinstellungen in den Einstellungen des Plugins vornehmen.
+Falls Sie die Buchungsmaske mit Hilfe unseres WordPress-Plugins eingebunden haben können Sie die Konfigurationseinstellungen in den Einstellungen des Plugins vornehmen.
 
 1. Loggen Sie sich auf Ihrer WordPress Seite ein.
 
