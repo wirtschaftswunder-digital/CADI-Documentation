@@ -55,7 +55,7 @@ In dem Beispiel hat das `<div>` Element ein HTML Attribut mit dem Schlüssel `da
 {: .important }
 > - Achten Sie auf die korrekte Schreibweise, auch auf Groß- und Kleinschreibung.
 > - Trennen sie die Attribute durch ein Leerzeichen.
-> - Jedes HTML Attribut darf nur **einmal** gesetzt werden. Um 
+> - Jedes HTML Attribut darf nur **einmal** gesetzt werden. 
 
 {: .note }
 > Wenn ein HTML Attribut nicht gesetzt wird, wird die Standarteinstellung verwendet.
