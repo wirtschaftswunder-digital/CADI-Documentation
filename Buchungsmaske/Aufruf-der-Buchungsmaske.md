@@ -20,6 +20,11 @@ nav_order: 3
 
 Damit die Buchungsmaske geladen werden kann und die Buchungen richtig verarbeitet werden können müssen beim Aufruf der Buchungsmaske ein paar URL Parameter gesetzt werden.
 
+{: .note-title}
+> Hinweis
+>
+> Die Erläuterung hier dient lediglich der Dokumentation. Wenn Sie unsere Termintabellen oder den Product Finder benutzen um eine Buchungsmaske aufzurufen, werden die Parameter der Buchungsmaske automatisch angehangen und müssen von Ihnen nicht weiter beachtet werden.
+
 ---
 
 ## Beispiel
