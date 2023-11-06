@@ -28,8 +28,10 @@ Dieser Weg der Einbindung **funktioniert nur bei WordPress Webseiten**. Da hier 
 
 3. **Installation des Plugins**:
 
-   - Klicken Sie im linken Menü auf "Plugins". 
-   - Anschließend klicken Sie auf "Installieren".
+   - Klicken Sie im linken Menü auf "Plugins".\
+   ![Screenshot Plugins](/CADI-Documentation/img/plugin1.png)
+   - Anschließend klicken Sie auf "Installieren".\
+   ![Screenshot Plugin installieren](/CADI-Documentation/img/plugin2.png)
    - Klicken Sie oben auf der Seite auf den Button "Plugin hochladen".
    - Klicken Sie auf "Durchsuchen" und wählen Sie die zuvor heruntergeladene .zip-Datei des Plugins aus.
    - Klicken Sie auf "Jetzt installieren".
@@ -38,10 +40,14 @@ Dieser Weg der Einbindung **funktioniert nur bei WordPress Webseiten**. Da hier 
 
     Nachdem das Plugin erfolgreich hochgeladen wurde, klicken Sie auf "Plugin aktivieren".
 
+    ![Screenshot Plugin aktivieren](/CADI-Documentation/img/plugin3.png)
+
 6. **Setzen Sie den *Shortcode* ein**
    
    - Platzieren Sie den Shortcode `[cadi_booking_mask]` an der Stelle, wo später die Buchungsmaske auf Ihrer Webseite erscheinen soll. In der Regel ist dies ein Container auf einer Unterseite wie ".../buchung"  o.ä..
    - Durch das Plugin erkennt WordPress den *Shortcode* `[cadi_booking_mask]` und ersetzt ihn beim Laden der Seite durch die Buchungsmaske.
+
+   ![Screenshot Shortcode](/CADI-Documentation/img/plugin4.png)
    
    {: .note-title}
    > Info
