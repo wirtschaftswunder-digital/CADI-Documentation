@@ -37,6 +37,9 @@ nav_order: 4
 **Screenshot vom Übersetzungseditor**
 ![Übersetzungseditor](/CADI-Documentation/img/screenshot3.png)
 
+In der linken Spalte finden Sie den internen Schlüssel. Daneben sehen Sie den ursprünglichen Textvorschlag, der nicht geändert werden kann und als Beispiel für unseren Standardwert dient. In den folgenden Spalten können Sie durch einen Klick das Feld öffnen und die Texte in der gewünschten Sprache einfügen, die Sie anstelle des Standards verwenden möchten.
+Nachdem Sie Ihre Änderungen abgeschlossen haben, sind die neuen Texte nicht sofort online verfügbar. Sie müssen die Datei auf Ihrem Desktop speichern und uns zur Verfügung stellen. Die von Ihnen erstellte Übersetzungsdatei wird dann von uns auf dem Server gespeichert und mit Ihrem Account verknüpft. Nach Abschluss dieses Vorgangs werden die geänderten Texte online verfügbar sein.
+
 {: .note-title}
 > Hinweis
 >
