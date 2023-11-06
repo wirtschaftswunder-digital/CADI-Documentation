@@ -62,7 +62,7 @@ In dem Beispiel hat das `<div>` Element ein HTML Attribut mit dem Schlüssel `da
 
 ### HTML Attribute im Einbindungscode der Buchungsmaske
 
-Die HTML Attribute der Buchungsmaske müssen am Anfang des [Einbindungscodes](/CADI-Documentation/buchungsmaske/Einbindung#einbindungscode) in das `<div>` Element gesetzt werden:
+Die HTML Attribute der Buchungsmaske müssen am Anfang des [Einbindungscodes](/CADI-Documentation/Buchungsmaske/Einbindung#einbindungscode) in das `<div>` Element gesetzt werden:
 
 ```html
 <div id="booking-mask-wrapper" HIER_HTML_ATTRIBUTE_EINGEBEN>
