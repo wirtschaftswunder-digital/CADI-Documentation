@@ -22,11 +22,11 @@ nav_order: 4
 > In der neuen CADI Buchungsmaske haben Sie die Möglichkeit alle Texte und Übersetzungen anzupassen.
 
 
-1. Öffnen Sie die Travel App
+1. Öffnen Sie die Travel App.
 
-2. Klicken Sie in der oberen Leiste auf **Einstellungen**
+2. Klicken Sie in der oberen Leiste auf **Einstellungen**.
     
-3. Klicken Sie nun auf **Booking-Mask Text Editor**
+3. Klicken Sie nun auf **Booking-Mask Text Editor**.
 
 4. Es öffnet sich eine Seite über die Sie zum Übersetzungseditor gelangen.
 
