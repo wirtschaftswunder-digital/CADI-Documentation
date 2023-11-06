@@ -24,7 +24,7 @@ Damit die Buchungsmaske geladen werden kann und die Buchungen richtig verarbeite
 
 ## Beispiel
 
-Nehmen wir an ein Anbieter hat die Buchungsmaske auf der Seite `https://example.com/buchung` eingebunden.
+Nehmen wir an, ein Anbieter hat die Buchungsmaske auf der Seite `https://example.com/buchung` eingebunden.
 
 *Bei folgenden Eigenschaften:*
 - Er möchte die Buchungsmaske für Destination mit der ID **260** und den Termin mit der ID **29222** verlinken
