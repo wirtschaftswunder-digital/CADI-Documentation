@@ -44,13 +44,23 @@ Falls Sie die Buchungsmaske mit Hilfe unseres WordPress-Plugins eingebunden habe
 
 Falls Sie die CADI Buchungsmaske als HTML Script eingebunden haben, nehmen Sie die Einstellungen direkt im HTML Code vor. Das geschieht über HTML Attribute.
 
-### Beispiel für ein HTML Attribut:
+### Diese Konfigurationen müssen gesetzt werden (Beispiel):
+
+Ein Anbieter möchte die Buchungsmaske einbinden und hat folgende Eigenschaften:
+
+- **API Base URL:** https://my.camps.digital
+- **Subdomain:** my
+- **Anbieter ID:** 13
+
+Der Anfang des Einbindungscodes würde für diesen Anbieter wie folgt aussehen:
 
 ```html
-<div data-example="true"></div>
+<!-- Booking mask START -->
+<div id="booking-mask-wrapper" data-api-base-url="https://my.camps.digital" data-subdomain="my" data-anbieter-id="13">
+  <!-- booking mask gets inserted here -->
+</div>
+...
 ```
-
-In dem Beispiel hat das `<div>` Element ein HTML Attribut mit dem Schlüssel `data-example` und dem Wert `true`
 
 {: .important }
 > - Achten Sie auf die korrekte Schreibweise, auch auf Groß- und Kleinschreibung.
@@ -69,24 +79,6 @@ Die HTML Attribute der Buchungsmaske müssen am Anfang des [Einbindungscodes](/C
 ```
 
 In dieser [Übersicht](#übersicht-der-einstellungsmöglichkeiten) wird jede Option erklärt. Außerdem erfahren Sie welche Einstellungen erforderlich sind und welche optional sind.
-
-### Beispiel
-
-Ein Anbieter möchte die Buchungsmaske einbinden und hat folgende Eigenschaften:
-
-- **API Base URL:** https://my.camps.digital
-- **Subdomain:** my
-- **Anbieter ID:** 13
-
-Der Anfang des Einbindungscodes würde für diesen Anbieter wie folgt aussehen:
-
-```html
-<!-- Booking mask START -->
-<div id="booking-mask-wrapper" data-api-base-url="https://my.camps.digital" data-subdomain="my" data-anbieter-id="13">
-  <!-- booking mask gets inserted here -->
-</div>
-...
-```
 
 ---
 
