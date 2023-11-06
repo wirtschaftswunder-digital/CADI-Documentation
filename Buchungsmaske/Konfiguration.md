@@ -30,7 +30,7 @@ Falls Sie die Buchungsmaske mit Hilfe unseres WordPress-Plugins eingebunden habe
 
 4. Klicken Sie auf dem Menüpunkt **CADI Booking Mask**.
 
-5. Nun sehen Sie die Einstellungen. Nehmen Sie Ihre Änderungen vor. In dieser [Übersicht](#übersicht-der-einstellungsmöglichkeiten) wird jede Option erklärt. Außerdem erfahren Sie welche Einstellungen erforderlich sind und welche optional sind.
+5. Nun sehen Sie die Einstellungen. Nehmen Sie Ihre Änderungen vor. In dieser [Übersicht](#übersicht-der-einstellungsmöglichkeiten) wird jede Option erklärt. Außerdem erfahren Sie, welche Einstellungen erforderlich sind und welche optional sind.
 
 7. **Wichtig:** denken Sie daran die Änderungen zu speichern, indem Sie auf den Button **Änderungen speichern** unten auf der Einstellungsseite klicken.
 
