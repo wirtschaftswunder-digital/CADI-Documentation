@@ -83,6 +83,6 @@ Kopieren Sie den folgenden HTML Code an die Stelle Ihrer Webseite an der Sie die
   <!-- booking mask gets inserted here -->
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script src="https://cdn.jsdelivr.net/gh/Leon-1207/CADI-Loaders@latest/BookingMask.js" />
+<script src="https://cdn.jsdelivr.net/gh/Leon-1207/CADI-Loaders@latest/BookingMask.js"></script>
 <!-- Booking mask END -->
 ```

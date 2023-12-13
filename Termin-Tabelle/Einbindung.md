@@ -75,7 +75,7 @@ Da die Termin Tabelle als iFrame eingebunden ist und diese standardmäßig nicht
 Am besten fügen Sie das Script vor dem iFrame ein.
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/Leon-1207/CADI-Loaders@latest/TerminTabelle.js" />
+<script src="https://cdn.jsdelivr.net/gh/Leon-1207/CADI-Loaders@latest/TerminTabelle.js"></script>
 ```
 
 Das Script muss nur ein Mal pro Seite eingefügt werden (auch mehreren Termin Tabellen).
