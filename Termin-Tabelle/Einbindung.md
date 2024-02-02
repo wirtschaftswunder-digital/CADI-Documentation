@@ -22,9 +22,7 @@ Fügen Sie folgendes iFrame auf der gewünschten Stelle Ihrer Webseite ein, um d
 
 ```html
 <iframe
-src="https://pf.camps.digital/#/termin-tabelle?destination_id=INSERT_DESTINATION_ID&pf-anbieter-id=INSERT_ANBIETER_ID&pf-subdomain=INSERT_SUBDOMAIN&pf-host-id=INSERT_HOST_ID&pf-theme-color=2a67ea&pf-bg-color=fafafa"
-id="tt-iframe"
-style="width: 100%; max-width: 960px; border: none; outline: none; margin: auto; border-radius: 6px;"
+src="https://pf.camps.digital/#/termin-tabelle?destination_id=INSERT_DESTINATION_ID&pf-anbieter-id=INSERT_ANBIETER_ID&pf-subdomain=INSERT_SUBDOMAIN&pf-host-id=INSERT_HOST_ID&pf-theme-color=2a67ea&pf-bg-color=fafafa" id="tt-iframe" scrolling="no" style="width: 100%; max-width: 960px; border: none; outline: none; margin: auto; border-radius: 6px;"
 ></iframe>
 ```
 
@@ -62,9 +60,7 @@ Damit die Termin Tabelle geladen werden kann müssen Sie Ihre Daten im Einbindun
 
 ```html
 <iframe
-src="https://pf.camps.digital/#/termin-tabelle?destination_id=260&pf-anbieter-id=123&pf-subdomain=my&pf-host-id=1&pf-theme-color=5dc831&pf-bg-color=fafafa"
-id="tt-iframe"
-style="width: 100%; max-width: 960px; border: none; outline: none; margin: auto; border-radius: 6px;"
+src="https://pf.camps.digital/#/termin-tabelle?destination_id=260&pf-anbieter-id=123&pf-subdomain=my&pf-host-id=1&pf-theme-color=5dc831&pf-bg-color=fafafa" id="tt-iframe" scrolling="no" style="width: 100%; max-width: 960px; border: none; outline: none; margin: auto; border-radius: 6px;"
 ></iframe>
 ```
 
