@@ -28,7 +28,7 @@ Kopieren Sie den folgenden Code-Abschnitt auf Ihre Webseite. Der Product Finder 
   <!-- Der Product Finder wird hier eingefügt -->
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script src="https://cdn.jsdelivr.net/gh/Leon-1207/CADI-Loaders@latest/ProductFinderViaScript.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/wirtschaftswunder-digital/CADI-Loaders@latest/ProductFinderViaScript.js"></script>
 <!-- Product Finder END -->
 ```
 

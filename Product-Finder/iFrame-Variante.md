@@ -27,7 +27,7 @@ Kopieren Sie den folgenden Code-Abschnitt auf Ihre Webseite. Der Product Finder 
 <iframe id="product-finder-iframe"
         src="https://pf.camps.digital?pf-anbieter-id=INSERT_ANBIETER_ID_HERE&pf-host-id=INSERT_HOST_ID_HERE" width="100%"
         frameborder="0" scrolling="no" style="overflow: visible;"></iframe>
-<script src="https://cdn.jsdelivr.net/gh/Leon-1207/CADI-Loaders@latest/ProductFinderViaIFrame.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/wirtschaftswunder-digital/CADI-Loaders@latest/ProductFinderViaIFrame.js"></script>
 <!-- Product Finder END -->
 ```
 
