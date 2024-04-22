@@ -107,6 +107,16 @@ plugins:
   - jekyll-github-metadata
   - jekyll-include-cache
 
+menu:
+  - title: "Home"
+    url: "/"
+  - title: "Blog"
+    url: "/blog/"
+  - title: "About"
+    url: "/about/"
+  - title: "External Link"
+    url: "https://www.externalsite.com"
+
 compress_html:
   clippings: all
   comments: all
