@@ -86,3 +86,19 @@ Kopieren Sie den folgenden HTML Code an die Stelle Ihrer Webseite an der Sie die
 <script src="https://cdn.jsdelivr.net/gh/Leon-1207/CADI-Loaders@latest/BookingMask.js"></script>
 <!-- Booking mask END -->
 ```
+
+---
+
+### Einbindungsmöglichkeit 3: iFrame
+
+```html
+<!-- Booking mask START -->
+<iframe id="bm-iframe" width="100%" style="max-width: 960px; border: none; outline: none; overflow: hidden" scrolling="no" frameborder="0" data-api-base-url="https://dev.wirtschaftswunder.digital" data-subdomain="my" data-anbieter-id="13" data-database-user="CORS"></iframe>
+<script src="https://main.d1u2qdrqduf5v6.amplifyapp.com/js/iframe/loader.js"></script>
+<script src="https://main.d1u2qdrqduf5v6.amplifyapp.com/js/iframe/communication/msgHandler/parentFrame.js"></script>
+<script src="https://main.d1u2qdrqduf5v6.amplifyapp.com/js/iframe/communication/main.js"></script>
+<!-- Booking mask END -->
+```
+
+* Wie bei den anderen Möglichkeiten der Einbindung müssen auch hier Parameter wie die Subdomain oder ide API-Base-URL gesetzt werden.
+* Alle HTML-Attribute die mit `data-` beginnen werden (wie bei der Einbindung via Script) an die Buchungsmaske im iFrame weitergegeben.
