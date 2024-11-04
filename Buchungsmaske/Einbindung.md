@@ -89,7 +89,7 @@ Kopieren Sie den folgenden HTML Code an die Stelle Ihrer Webseite an der Sie die
 
 ---
 
-### Einbindungsmöglichkeit 3: iFrame
+## Einbindungsmöglichkeit 3: iFrame
 
 ```html
 <!-- Booking mask START -->
