@@ -234,6 +234,11 @@ Klick der Benutzer auf das [Sidebar Badge (2)](#sidebar-badge-2-image-url-option
 > **Beispiel:** `data-sidebar-badge-2-link="https://example.com"`
 
 
+### Link zur Reiseausschreibung
+
+Über dem Buchungsformular wird standardmäßig ein Link zurück zur Reiseausschreibung angezeigt. Der Link kommt aus den Stammdaten in der Travel App. Dieser kann allerdings durch das HTML Attribut `data-original-url` überschrieben werden. Bei `data-original-url=""` wird der Link ausgeblendet.
+
+
 ## Sie können nicht auf den Quellcode der Webseite zugreifen? *Kein Problem!*
 
 Wenn Sie die Buchungsmaske auf Ihrer Webseite mittels HTML Script eingebunden haben und nun Einstellungen ändern möchten, können wir das auch für Sie erledigen. Kontaktieren Sie uns und wir nehmen die Änderung in unsrem System vor.
