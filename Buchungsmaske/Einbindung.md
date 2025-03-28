@@ -93,7 +93,7 @@ Kopieren Sie den folgenden HTML Code an die Stelle Ihrer Webseite an der Sie die
 
 ```html
 <!-- Booking mask START -->
-<iframe id="bm-iframe" width="100%" style="max-width: 960px; border: none; outline: none; overflow: hidden" scrolling="no" frameborder="0" data-api-base-url="https://dev.wirtschaftswunder.digital" data-subdomain="my" data-anbieter-id="13" data-database-user="CORS"></iframe>
+<iframe id="bm-iframe" width="100%" style="max-width: 960px; border: none; outline: none; overflow: hidden" scrolling="no" frameborder="0" data-api-base-url="https://my.camps.digital" data-subdomain="my" data-anbieter-id="13" data-database-user="CORS"></iframe>
 <script src="https://main.d1u2qdrqduf5v6.amplifyapp.com/js/iframe/loader.js"></script>
 <script src="https://main.d1u2qdrqduf5v6.amplifyapp.com/js/iframe/communication/msgHandler/parentFrame.js"></script>
 <script src="https://main.d1u2qdrqduf5v6.amplifyapp.com/js/iframe/communication/main.js"></script>
