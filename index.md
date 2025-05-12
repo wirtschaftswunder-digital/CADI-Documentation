@@ -17,3 +17,7 @@ Erfahren Sie wie Sie unsere neue **Buchungsmaske**, die **Termin Tabelle** oder 
 [Termin Tabelle](/CADI-Documentation/Termin-Tabelle){: .btn .btn-blue .mx-4 }
 [Product Finder](/CADI-Documentation/Product-Finder){: .btn .btn-blue }
 </span>
+
+## Häufige Fehler
+
+Unter [Troubleshooting](/CADI-Documentation/Troubleshooting) führen wir häufige Fehlerursachen und ihre Lösungen auf.
